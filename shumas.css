@@ -1,0 +1,87 @@
+body{background-color: #41228e;}
+*{
+    box-sizing: content-box;
+    color: white;
+}
+.tabs{
+    list-style-type: none;
+    display: flex;
+    gap: 25px;
+    position: absolute;
+    margin-left: 800px;
+    font-family: monospace;
+    font-size: 15px;
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 150px;
+}
+.div1{
+    margin-left: 150px;
+    font-size: 55px;
+    position: absolute;
+    margin-top: 50px;
+}
+.icons{
+    list-style-type: none;
+    position: relative;
+    top: 250px;
+    border-left: 50px
+    /* display: inline-block; */
+}
+#icon1{
+    margin-bottom: 10px;
+}
+#icon2{
+    margin-bottom: 10px;
+}
+.background-pics{
+    position: relative;
+}
+
+.dots-orange{
+    margin-left: 700px;
+    top: 85px;
+    position: absolute;
+}
+ .dd1{
+    position: relative;
+}   
+.dots-group-orange{
+    margin-left: 250px;
+    top: 200px;
+    position: absolute;
+}
+.leaf-bg{
+    bottom: 0px;
+    position: absolute;
+    height: 560px; 
+    padding: 0%; 
+    border: 0%; 
+    width: 99%;
+}
+.leaf-cyan-2{
+    position: absolute;
+    margin-left: 1050px; 
+    top: 250px;
+}
+.leaf-cyan{
+    position: absolute;
+    top: 365px;
+    margin-left: 150px;
+}
+.leaf-orange{
+    position: absolute;
+    margin-left: 550px;
+}
+.leaf-pink-round{
+    position: absolute;
+    margin-left: 600px;
+    top: 350px;
+}
+.leaf-yellow{
+    position: absolute;
+    margin-left: 1070px;
+    width: 20%;
+
+}
